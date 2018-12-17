@@ -23,5 +23,5 @@ shadowJar {
 jar.dependsOn shadowJar
 
 wrapper {
-    gradleVersion = '4.10.2'
+    gradleVersion = '4.10.3'
 }
